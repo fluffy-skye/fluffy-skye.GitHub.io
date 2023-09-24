@@ -1,5 +1,4 @@
 ---
-layout: page
 theme: jekyll-theme-cayman
 title: "Tennis"
 permalink: /tennis
