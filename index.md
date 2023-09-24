@@ -1,4 +1,2 @@
-<title>Welcome</title>
-
-## Hello
+## Welcome
 [Tennis](tennis.md)
