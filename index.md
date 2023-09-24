@@ -1,2 +1,1 @@
 ## Welcome
-# Racket Journal
