@@ -13,5 +13,5 @@ Tier One Ghost Wire 1.27 @ 48 lbs <br />
 
 Head Auxetic Extreme Tour <br />
 (2023/09 to Present) <br />
-Head Velocity MLT 1.30 @ 52 lbs <br />
-Isospeed Cream 1.23 @ 49 lbs <br />
+Mayami Tour Hex 1.23 @ 50 lbs <br />
+Tier One Ghost Wire 1.22 @ 50 lbs <br />
