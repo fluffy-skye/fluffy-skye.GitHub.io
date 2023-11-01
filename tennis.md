@@ -13,5 +13,5 @@ Tier One Ghost Wire 1.27 @ 48 lbs <br />
 
 Head Auxetic Extreme Tour <br />
 (2023/09 to Present) <br />
-Mayami Tour Hex 1.23 @ 50 lbs <br />
+Head Velocity MLT 1.30 @ 53 lbs <br />
 Tier One Ghost Wire 1.22 @ 50 lbs <br />
